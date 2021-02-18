@@ -5,6 +5,6 @@
 --!>
 
 - 🔭 I’m currently working on KAIST  
-- 🌱 I’m currently learning AI   
+- 🌱 I’m currently learning AI  
 - 💬 Ask me about anything  
 - 📫 How to reach me: hichoe95@kaist.ac.kr  
