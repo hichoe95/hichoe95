@@ -15,14 +15,4 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hichoe95&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Hwanil's github stats" /></a>  
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichoe95&theme=buefy&hide_border=true&?hide=jupyter%20notebook /></a> 
-
-
-<!-- 
-![Hwanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hichoe95)  
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hichoe95&repo=Artifact-Detection-and-Sequential-Ablation)  
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hichoe95) -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichoe95&theme=buefy&hide_border=true&hide=jupyter%20notebook /></a> 
