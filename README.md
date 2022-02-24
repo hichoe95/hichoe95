@@ -8,7 +8,10 @@
 - 🌱 I’m currently learning AI  <br/>
 - 💬 Ask me about anything  <br/>
 - 📫 How to reach me: hwanil.choi@kaist.ac.kr  <br/>
-  
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hichoe95&repo=Artifact-Detection-and-Sequential-Ablation" />
+</a>
 
 ![Hwanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hichoe95)  
 
