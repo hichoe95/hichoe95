@@ -7,7 +7,8 @@
 - 🔭 I’m currently studying on Graduate Schoole of AI at KAIST  <br/>
 - 🌱 I’m currently learning AI  <br/>
 - 💬 Ask me about anything  <br/>
-- 📫 How to reach me: hwanil.choi@kaist.ac.kr  <br/>  
+- 📫 How to reach me: hwanil.choi@kaist.ac.kr  
+<br/>  
   
   
   
