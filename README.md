@@ -9,4 +9,4 @@
 - 💬 Ask me about anything  <br/>
 - 📫 How to reach me: hwanil.choi@kaist.ac.kr  <br/>
 
-[![Hwanil's Github Stats](https://github-readme-stats.vercel.app/api?username='hwanil choi')](https://github.com/anuraghazra/github-readme-stats)
+[![Hwanil's Github Stats](https://github-readme-stats.vercel.app/api?username='HwanilChoi')](https://github.com/anuraghazra/github-readme-stats)
