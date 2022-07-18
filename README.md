@@ -5,8 +5,12 @@
 --!>
 
 - 🔭 I’m currently studying on Graduate Schoole of AI at KAIST  <br/>
-- 🌱 I’m currently learning AI  <br/>
 - 📫 How to reach me: hwanil.choi@kaist.ac.kr  <br/>
+
+
+You can check my [CV](https://docs.google.com/document/d/1V1Oy4aCQCiPhXZwdROEbyxYjyAUHs2uNPCwEkafkBSw/edit?usp=sharing), [BLOG](hichoe95.tistory.com), [LINKEDIN](https://www.linkedin.com/in/hwanil-choi-19808314a/) for more information.
+
+
  <br/>
  <br/>
 <!--  <br/>
