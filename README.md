@@ -6,10 +6,10 @@
 
 - 📫 How to reach me: hwanil.choi@lgresearch.ai  <br/>
 
-You can check my <a href="https://docs.google.com/document/d/1V1Oy4aCQCiPhXZwdROEbyxYjyAUHs2uNPCwEkafkBSw/edit?usp=sharing" target="_blank">CV</a>, <a href="https://hichoe95.tistory.com" target="_blank">BLOG</a>, <a href="https://www.linkedin.com/in/hwanil-choi-19808314a/" target="_blank">LINKEDIN</a> for more information.
-
-
-
+You can check my <a href="https://hichoe95.tistory.com" target="_blank">BLOG</a>, <a href="https://www.linkedin.com/in/hwanil-choi-19808314a/" target="_blank">LINKEDIN</a> for more information.
+<!--
+<a href="https://docs.google.com/document/d/1V1Oy4aCQCiPhXZwdROEbyxYjyAUHs2uNPCwEkafkBSw/edit?usp=sharing" target="_blank">CV</a>, 
+--!>
  <br/>
  <br/>
 <!--  <br/>
